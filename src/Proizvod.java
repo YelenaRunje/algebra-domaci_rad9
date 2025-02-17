@@ -1,6 +1,6 @@
 class Proizvod {
     private String naziv;
-    private double cijena; // Promijenjeno iz int u double
+    private double cijena;
     private int kolicina;
 
     public Proizvod(String naziv, double cijena, int kolicina) {
